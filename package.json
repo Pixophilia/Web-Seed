@@ -1,0 +1,23 @@
+{
+  "name": "web-seed",
+  "version": "1.0.0",
+  "description": "a seed for web projects",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pixophilia/Web-Seed.git"
+  },
+  "keywords": [
+    "seed",
+    "web"
+  ],
+  "author": "Sebastian Kohn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pixophilia/Web-Seed/issues"
+  },
+  "homepage": "https://github.com/Pixophilia/Web-Seed#readme"
+}
