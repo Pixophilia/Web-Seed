@@ -1,0 +1,5 @@
+# ignoriere alle node module
+node_modules
+
+# ignoriere das geamte dist-Verzeichnis
+dist
